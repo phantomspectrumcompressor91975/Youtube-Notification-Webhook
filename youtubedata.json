@@ -1,1 +1,5 @@
-{"channel id here": {"channel_name": "", "latest_video_url": "don't add anything here", "webhookurl": "enter your discord webhook url here"}}
+{
+  "channel id here": {
+    "channel_name": "", "latest_video_url": "don't add anything here", "webhookurl": "enter your discord webhook url here"
+  }
+}
